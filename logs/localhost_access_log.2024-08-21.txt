@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [21/Aug/2024:19:24:38 +0700] "GET / HTTP/1.1" 200 4726
+0:0:0:0:0:0:0:1 - - [21/Aug/2024:19:24:39 +0700] "GET /resources/bootstrap/js/jquery.min.js;jsessionid=688433DB4B157E8F1D2293232EE881F9 HTTP/1.1" 404 604
+0:0:0:0:0:0:0:1 - - [21/Aug/2024:19:24:39 +0700] "GET /resources/bootstrap/js/bootstrap.min.js;jsessionid=688433DB4B157E8F1D2293232EE881F9 HTTP/1.1" 200 59219
+0:0:0:0:0:0:0:1 - - [21/Aug/2024:19:24:39 +0700] "GET /resources/bootstrap/css/bootstrap.min.css;jsessionid=688433DB4B157E8F1D2293232EE881F9 HTTP/1.1" 200 163873
+0:0:0:0:0:0:0:1 - - [21/Aug/2024:19:24:39 +0700] "GET /favicon.ico HTTP/1.1" 404 684
